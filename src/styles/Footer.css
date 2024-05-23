@@ -1,0 +1,48 @@
+.containerGlobal-Footer {
+    background-color: #000000;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.container-Columnas-Footer{
+    /* background-color: rgb(43, 255, 0); */
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+}
+
+.columna1-Footer, .columna2-Footer, .columna3-Footer{
+    width: 33%;
+    padding: 2%;
+    justify-content: center;
+    align-items: center;
+}
+
+.liFooter{
+    list-style: none;
+    margin-top: 2%;
+    font-size: 1.2em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.lbFooter{
+    font-size: 1.6em;
+    color: #ffffff;
+}
+
+.nombreFooter-PieFinal{
+    background-color: #380039;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+}
+
+.logo-redSocial{
+    width: 7%;
+}

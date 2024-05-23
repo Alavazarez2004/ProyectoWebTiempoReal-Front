@@ -1,0 +1,18 @@
+.table-container {
+    padding: 20px;
+}
+
+.maestros-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.maestros-table th, .maestros-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.maestros-table th {
+    background-color: #f2f2f2;
+}

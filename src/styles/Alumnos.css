@@ -1,0 +1,18 @@
+.table-container {
+    padding: 20px;
+}
+
+.alumnos-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.alumnos-table th, .alumnos-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.alumnos-table th {
+    background-color: #f2f2f2;
+}

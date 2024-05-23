@@ -1,0 +1,40 @@
+.home-container{
+    position: fixed;
+    left: 10%;
+    right: 10%;
+    top: 50%;
+    transform: translate(0, -50%);
+    display: flex;
+    flex-direction: column;
+}
+
+.text-input-field{
+    padding: 24px 12px;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.text-input-field:focus{
+    outline: none;
+}
+
+.enter-room-name-button{
+    margin-top: 20px;
+    padding: 24px 12px;
+    font-size: 28px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.enter-room-name-button:hover {
+    background-color: #0056b3;
+}
+
+.enter-room-name-button:active {
+    background-color: #004080;
+}
